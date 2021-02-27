@@ -1,4 +1,4 @@
-#Problem    
+#Problem3    
 #Question:         
 Take a user input array of numbers. Find the minimum number of swaps required such that
 the array is sorted as all even numbers are at the left side and odd numbers at the right.
